@@ -131,6 +131,3 @@ Steps:
 
 ---
 
-# License
-
-MIT License
